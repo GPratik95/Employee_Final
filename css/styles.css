@@ -28,14 +28,8 @@ h1{
 }
 
 
-.middle{
-    background-color: rgb(255, 173, 211);
-    width: 1400px;
-    height: 600px;
-   
-}
 .bottom{
-    background-color: rgb(159, 159, 241);
+    background-color: rgb(200, 200, 245);
     width: 1400px;
     height: 600px;
 }
